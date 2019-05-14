@@ -1,0 +1,33 @@
+{
+  "name": "firebase-react-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samcorcos/firebase-react-next.git"
+  },
+  "keywords": [
+    "next",
+    "react",
+    "firebase",
+    "firestore",
+    "nextjs",
+    "boilerplate"
+  ],
+  "author": "Sam Corcos <sam@corcos.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samcorcos/firebase-react-next/issues"
+  },
+  "homepage": "https://github.com/samcorcos/firebase-react-next#readme",
+  "dependencies": {
+    "firebase": "^6.0.2",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
